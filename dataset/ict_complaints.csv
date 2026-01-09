@@ -1,1 +1,7 @@
-
+complaint_id,department,issue_type,status,days_to_resolve
+1,Pharmacy,Network,Resolved,2
+2,Pharmacy,Hardware,Resolved,5
+3,Logistics,Software,Pending,7
+4,Administration,Network,Resolved,3
+5,Pharmacy,Software,Resolved,4
+6,Finance,Hardware,Pending,10
