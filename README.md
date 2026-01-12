@@ -21,3 +21,9 @@ core data analysis skills for a Junior Data Analyst role.
 ## Author
 Anis Syazreen  
 Junior Data Analyst
+
+## Tableau Dashboards
+This repository supports Tableau dashboards developed using the datasets provided.
+Dashboards focus on:
+- Sales performance by region
+- ICT complaint trends and resolution time KPIs
