@@ -1,3 +1,10 @@
+/*
+Business Questions:
+1. Which region generates the highest total sales?
+2. What is the average complaint resolution time per department?
+3. Which departments may require operational improvement?
+*/
+
 -- Total sales by region
 SELECT
     region,
